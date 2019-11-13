@@ -1,0 +1,8 @@
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\bin\Debug\netstandard2.1\MovieShop.Entity.deps.json
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\bin\Debug\netstandard2.1\MovieShop.Entity.dll
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\bin\Debug\netstandard2.1\MovieShop.Entity.pdb
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\obj\Debug\netstandard2.1\MovieShop.Entity.csprojAssemblyReference.cache
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\obj\Debug\netstandard2.1\MovieShop.Entity.AssemblyInfoInputs.cache
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\obj\Debug\netstandard2.1\MovieShop.Entity.AssemblyInfo.cs
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\obj\Debug\netstandard2.1\MovieShop.Entity.dll
+C:\Code\netcore\MovieShop.API\MovieShop.Entity\obj\Debug\netstandard2.1\MovieShop.Entity.pdb

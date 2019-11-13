@@ -1,0 +1,11 @@
+C:\Code\netcore\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.deps.json
+C:\Code\netcore\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Code\netcore\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.csprojAssemblyReference.cache
+C:\Code\netcore\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.AssemblyInfoInputs.cache
+C:\Code\netcore\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.AssemblyInfo.cs
+C:\Code\netcore\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entity.dll
+C:\Code\netcore\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+C:\Code\netcore\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entity.pdb
+C:\Code\netcore\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.csproj.CopyComplete
+C:\Code\netcore\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Code\netcore\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.pdb
