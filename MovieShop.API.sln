@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.API", "MovieShop.API\MovieShop.API.csproj", "{7B5C1438-5847-4905-A755-1E34C2FDB442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieShop.API", "MovieShop.API\MovieShop.API.csproj", "{7B5C1438-5847-4905-A755-1E34C2FDB442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.Data", "MovieShop.Data\MovieShop.Data.csproj", "{1A81AA60-EA82-41F6-88CD-CF953A8E47F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieShop.Data", "MovieShop.Data\MovieShop.Data.csproj", "{1A81AA60-EA82-41F6-88CD-CF953A8E47F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.Services", "MovieShop.Services\MovieShop.Services.csproj", "{B3D1E4FE-F3A6-466F-94F3-2591294E3EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieShop.Services", "MovieShop.Services\MovieShop.Services.csproj", "{B3D1E4FE-F3A6-466F-94F3-2591294E3EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.Entity", "MovieShop.Entity\MovieShop.Entity.csproj", "{68E73FF0-5C7C-492F-8142-3B4CF1EE1D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieShop.Entity", "MovieShop.Entity\MovieShop.Entity.csproj", "{68E73FF0-5C7C-492F-8142-3B4CF1EE1D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.UnitTests", "MovieShop.UnitTests\MovieShop.UnitTests.csproj", "{21C0F179-E69B-4753-BC7E-DA50BC9C2C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{68E73FF0-5C7C-492F-8142-3B4CF1EE1D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68E73FF0-5C7C-492F-8142-3B4CF1EE1D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68E73FF0-5C7C-492F-8142-3B4CF1EE1D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C0F179-E69B-4753-BC7E-DA50BC9C2C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C0F179-E69B-4753-BC7E-DA50BC9C2C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C0F179-E69B-4753-BC7E-DA50BC9C2C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C0F179-E69B-4753-BC7E-DA50BC9C2C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
